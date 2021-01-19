@@ -1,0 +1,7 @@
+C:\Users\CP360188\Documents\CC\Problem1_KeywordSearch\Problem1_KeywordSearch\bin\Debug\Problem1_KeywordSearch.exe.config
+C:\Users\CP360188\Documents\CC\Problem1_KeywordSearch\Problem1_KeywordSearch\bin\Debug\Problem1_KeywordSearch.exe
+C:\Users\CP360188\Documents\CC\Problem1_KeywordSearch\Problem1_KeywordSearch\bin\Debug\Problem1_KeywordSearch.pdb
+C:\Users\CP360188\Documents\CC\Problem1_KeywordSearch\Problem1_KeywordSearch\obj\Debug\Problem1_KeywordSearch.csproj.CoreCompileInputs.cache
+C:\Users\CP360188\Documents\CC\Problem1_KeywordSearch\Problem1_KeywordSearch\obj\Debug\Problem1_KeywordSearch.exe
+C:\Users\CP360188\Documents\CC\Problem1_KeywordSearch\Problem1_KeywordSearch\obj\Debug\Problem1_KeywordSearch.pdb
+C:\Users\CP360188\Documents\CC\Problem1_KeywordSearch\Problem1_KeywordSearch\obj\Debug\Problem1_KeywordSearch.csprojAssemblyReference.cache
